@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.vagrant
+vagrant.pem
+sync_folder/*
+!sync_folder/.gitkeep
