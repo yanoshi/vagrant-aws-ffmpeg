@@ -67,7 +67,7 @@ Host:`./sync_folder/*` -> AWS:`/sync_folder` :
 vagrant rsync
 ```
 
-AWS:`./sync_folder/*` -> Host:`/sync_folder` :
+AWS:`/sync_folder/*` -> Host:`./sync_folder` :
 ```
 vagrant rsync-back
 ```
